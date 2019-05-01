@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Poke_API</string>
+    <string name="n_a_value">N/A</string>
+    <string name="movie_title_string">title</string>
+    <string name="rate_ex_string">10</string>
+    <string name="lorem_30_string">name</string>
+    <string name="runtime_ex_string">type</string>
+    <string name="pokemon_query">Pokemon</string>
+</resources>
